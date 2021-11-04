@@ -1,0 +1,2 @@
+#!/bin/bash
+JAVA_HOME=/Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home ./gradlew --no-daemon $@
